@@ -1,2 +1,0 @@
-returningobj_28_6_18.ReturningObj_28_6_18
-returningobj_28_6_18.Test
