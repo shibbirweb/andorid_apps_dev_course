@@ -1,10 +1,7 @@
 # Android Apps Developing Course
 
 
-## Android Apps Developing Course Class Source File
-
-
-### Class Topic 
+## Class Topic 
 
 
 #### Java Basic Class
