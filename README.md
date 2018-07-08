@@ -40,3 +40,5 @@
 * Project : Hello World App
 ---------
 * Project : MultipleActivity
+---------
+* Project : A simple Calculator
