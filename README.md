@@ -33,6 +33,7 @@
 * Method Overloading
 * Method overwriting
 * Thread & Multi-Thread
+* Exception Handling (Try Catch) 
 
 #### Android Studio Class
 * Installing Android Studio
