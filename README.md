@@ -31,6 +31,8 @@
 * Java Array
 * Multidimension Array
 * Method Overloading
+* Method overwriting
+* Thread & Multi-Thread
 
 #### Android Studio Class
 * Installing Android Studio
