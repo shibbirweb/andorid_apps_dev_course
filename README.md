@@ -45,3 +45,6 @@
 * Project : MultipleActivity
 ---------
 * Project : A simple Calculator
+---------
+* Using of Linear layout, TextView, Button, ImageButton, ScroolView for various desing
+* Project : Layout Design With multiple Activity (A interface to go One activity to another activity. A ImageButton, if click it will show number in dailpad.)
