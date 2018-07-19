@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Gender"
+        android:textSize="28sp"/>
+    <RadioGroup
+        android:id="@+id/rg_activity_main_gender_group"
+        android:layout_width="match_parent"
+        android:padding="6dp"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rb_activity_main_male"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:checked="true"
+            android:text="Male"/>
+        <RadioButton
+            android:id="@+id/rb_activity_main_female"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:textSize="24sp"/>
+        <RadioButton
+            android:id="@+id/rb_activity_main_others"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Others"
+            android:textSize="24sp"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_activity_main_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="submit"/>
+
+
+</LinearLayout>
