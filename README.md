@@ -46,10 +46,13 @@
 ---------
 * Project : A simple Calculator
 ---------
-* Using of Linear layout, TextView, Button, ImageButton, ScroolView for various desing
-* Project : Layout Design With multiple Activity (A interface to go One activity to another activity. A ImageButton, if click it will show number in dailpad.)
+* Using of Linear layout, TextView, Button, ImageButton, ScroolView for various design
+* Project : Layout Design With multiple Activity (A interface to go One activity to another activity. A ImageButton, if click it will show number in dialpad.)
 ---------
 * Array, ArrayList, List
 * Array Syntax, ArrayList Syntax, List Syntax
 * WebView, RadioGroup, RadioButton
 * Project : Using RadioGroup, RadioButton and WebView (Made simple web browser) in layout.
+---------
+* Conditional Logic (if), ArrayList Example
+* Project: Ghotok Apps, Currency Converter
