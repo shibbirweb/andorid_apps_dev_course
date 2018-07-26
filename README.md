@@ -57,5 +57,8 @@
 * Conditional Logic (if), ArrayList Example
 * Project: Ghotok Apps, Currency Converter
 --------
-* ListView
+* ListView, Adapter
 * Project: ListView example project
+--------
+* ListView, Custom Adapter, Model Class 
+* Project: Custom ListView example project
